@@ -4,11 +4,11 @@
 - Of course, I’m currently learning Javascript. Now I am at the beginning of learning programming so I am going to continue to know Javascript deeply first.  
 
 ### I put here the projects that I poured my power into the most.  
-1. **URL Shortener Microservice**
+1. ***URL Shortener Microservice***
 - This is a problem of the backend Javascript course provided by freeCodeCamp
 - This was my first time creating API, which is combined with DB, by myself. So I was pretty struggling though, It was worth it!
 - [On Github](https://github.com/memorandumtk/urlShorter_express)
-2. **Timer Project**
+2. ***Timer Project***
 - This project is also a problem provided by freeCodeCamp.
 - In this project, I used almost only React to render and function this project's page.
 - [On Github](https://github.com/memorandumtk/freecodecamp_react/tree/main/my-timer)
