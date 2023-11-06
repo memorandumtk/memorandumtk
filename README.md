@@ -1,5 +1,5 @@
 # Kosuke Takagi  
-### I really want to be Back-end Web depeloper in the future.  
+### I really want to be a full-stack Web developer.  
 #### I like both sides of Javascript though, especially since I feel comfortable when touching the backend site of Javascript.
 - Of course, I’m currently learning Javascript. Now I am at the beginning of learning programming so I am going to continue to know Javascript deeply first.  
 
