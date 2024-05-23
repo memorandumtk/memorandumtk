@@ -7,6 +7,8 @@ I am seeking a web developer position where I can leverage my network/server eng
 
 ### If you see `Projects` section in [my profile web site](https://portfolio-typescript-omega.vercel.app/), which is written by React and built with NextJS, you will tell what I can.
 
+## 日本語版
+## 髙木 晃介
 私の現座の目標はフルスタックWEB開発者としての仕事に就くことです。
 ReactJSを使って構築した[本プロファイルサイト](https://portfolio-typescript-omega.vercel.app/)の「Project」セクション部分を見ていただけたら、プログラマーとしての開発能力がどのくらいか図りやすいと思います。
 
