@@ -13,7 +13,22 @@ I am seeking a web developer position where I can leverage my network/server eng
 ## 日本語版
 ## 髙木 晃介
 私の現座の目標はフルスタックWEB開発者としての仕事に就くことです。
-ReactJSを使って構築した[本プロファイルサイト](https://portfolio-typescript-omega.vercel.app/)の「Project」セクション部分を見ていただけたら、プログラマーとしての開発能力がどのくらいか図りやすいと思います。
+ReactとNextJSを使って構築した[本プロファイルサイト](https://portfolio-typescript-omega.vercel.app/)の「Project」セクション部分を見ていただけたら、プログラマーとしての開発能力がどのくらいか図りやすいと思います。
+掲載しているセルフプロジェクトとして、以下があります。
+1. Vercel Clone By Laravel with sail
+   - 「VercelのクローンシステムをNode.jsで作成してみる（ReactのデフォルトCRAページをデプロイできるようにするまで）」のプロセスを説明しているYoutubeで拝見し、PHPフレームワークのLaravelを使って実装したプロジェクト。
+   - Laravelで実装してみた理由としては、Node.jsを使うように説明されているものと似たようなシステムをLaravelを使って構築できたら、JavascriptとPHPフレームワーク両方面からの理解を深められると考えたため。
+   - ポイントとしては以下の通り。
+       1. アップロードされたファイルを読み込み、npmのbuildコマンドを実行する。build後のディレクトリをクラウドのファイルストレージに格納する。
+       2. 1のプロセスが終わったら、web-socketを利用してフロントサイトに通知が届くようにする。通知が届いたら、buildサイトでジャンプできるようにUIを変更する。 
+3. Wordpress ISR With Next.js
+   - 自身で保持しているWordpressサイトのブログデータを、WordpressのGraphQLプラグインを使用してデータを取得し、そのデータを自作したNext.jsに反映させるプロジェクト。
+   - VercelのGet Startedプロジェクトの中を参考に、構築したもの。
+5. Blog System By Laravel
+   - Laravelを学習した際に、Inertia.jsを使い、「Laravel + React」でサンプルBlogシステムを構築した際のプロジェクト。
+7. Garbage box finder app with Next.js
+   - Leaflet.jsのライブラリを使って構築した自主開発プロジェクト。
+   - カナダに移住した際に、パブリックのごみ箱がいたるところにあることに驚き、ごみ箱がどこにあるかを把握できるようなアプリがあったら便利になると思い構築を始めたが、一旦ストップしている。
 
 <!---
 memorandumtk/memorandumtk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
