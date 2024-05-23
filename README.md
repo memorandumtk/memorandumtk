@@ -28,7 +28,7 @@ ReactとNextJSを使って構築した[本プロファイルサイト](https://p
    - Laravelを学習した際に、Inertia.jsを使い、「Laravel + React」でサンプルBlogシステムを構築した際のプロジェクト。
 7. Garbage box finder app with Next.js
    - Leaflet.jsのライブラリを使って構築した自主開発プロジェクト。
-   - カナダに移住した際に、パブリックのごみ箱がいたるところにあることに驚き、ごみ箱がどこにあるかを把握できるようなアプリがあったら便利になると思い構築を始めたが、一旦ストップしている。
+   - カナダに移住した際にパブリックのごみ箱がいたるところにあることに驚き、ごみ箱がどこにあるかを把握できるようなアプリがあったら便利になると思い構築を始めたが、現段階では一旦ストップしている。
 
 <!---
 memorandumtk/memorandumtk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
